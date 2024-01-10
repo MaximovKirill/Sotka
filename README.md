@@ -1,1 +1,2 @@
 # Sotka
+Test project.
